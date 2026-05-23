@@ -68,5 +68,3 @@ Multi-language support
 
 Live weather API integration
 
-Mobile application
-Farmer chatbot assistant
